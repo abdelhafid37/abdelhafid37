@@ -86,7 +86,12 @@ Here are some ideas to get you started:
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" alt="Animated Contribution Snake" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated Contribution Snake" src="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" />
+</picture>
+  <!-- <img src="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" alt="Animated Contribution Snake" /> -->
 </p>
 
 ---
