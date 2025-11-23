@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=c" alt="c" />
   <img src="https://skillicons.dev/icons?i=php" alt="php" />
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="laravel" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=html" alt="html" />
@@ -75,6 +76,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=vscode" alt="docker" />
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
   <img src="https://skillicons.dev/icons?i=git" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="docker" />
   <img src="https://skillicons.dev/icons?i=github" alt="github" />
   <!-- <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" /> -->
 </p>
@@ -91,15 +93,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-1b1f23?style=for-the-badge&logo=c&logoColor=fff" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
   <img src="https://img.shields.io/badge/Laravel-c63b4a?style=for-the-badge&logo=laravel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-4ed14e?style=for-the-badge&logo=mongodb&logoColor=000" />
   <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=fff" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" />
-<img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=fff" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Postman-1b1f23?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
 
