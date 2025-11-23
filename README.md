@@ -21,15 +21,17 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=25&duration=2600&pause=900&color=39FF14&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel'...];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
 </p>
 
-<!-- Subtle animated wave divider -->
+<!-- Subtle animated wave divider
 <p align="center" style="margin: -20px 0;">
-  <img src="https://raw.githubusercontent.com/abdelhafid37/abdelhafid37/main/assets/wave-top.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/abdelhafid37/abdelhafid37/main/assets/wave-top.svg" alt="wave" width="100%" />
 </p>
+-->
+
 
 <!-- Modern clean badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-207bd7?style=flat-square&logo=github&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Contact-abdelhafid%40email.com-22223b?style=flat-square&logo=gmail&logoColor=f23e2b" />
+  <img src="https://img.shields.io/badge/Contact-abdelhafidelhouari776%40email.com-22223b?style=flat-square&logo=gmail&logoColor=f23e2b" />
   <a href="https://linkedin.com/in/#">
     <img src="https://img.shields.io/badge/LinkedIn-abdelhafid-5a41dc?style=flat-square&logo=linkedin&logoColor=fff" />
   </a>
@@ -118,5 +120,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelhafid37&style=for-the-badge&color=40B9F7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdelhafid37&style=for-the-badge&color=40B9F7&" alt="Profile Views" />
 </p>
