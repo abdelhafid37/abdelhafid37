@@ -54,24 +54,41 @@ Here are some ideas to get you started:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js" alt="js" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
+  <img src="https://skillicons.dev/icons?i=react" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" alt="express" />
+  <img src="https://skillicons.dev/icons?i=java" alt="java" />
+  <img src="https://skillicons.dev/icons?i=c" alt="c" />
+  <img src="https://skillicons.dev/icons?i=php" alt="php" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=html" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" alt="css" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
+  <!-- <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" /> -->
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-21c25e?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Laravel-c63b4a?style=for-the-badge&logo=laravel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Next.js-23272e?style=for-the-badge&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-4ed14e?style=for-the-badge&logo=mongodb&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-03d6fc?style=for-the-badge&logo=react&logoColor=161b22" />
-  <img src="https://img.shields.io/badge/TypeScript-0f6cbf?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/JavaScript-f4d03f?style=for-the-badge&logo=javascript&logoColor=161b22" />
-  <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TypeScript-0f6cbf?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-03d6fc?style=for-the-badge&logo=react&logoColor=161b22" />
+  <img src="https://img.shields.io/badge/Next.js-23272e?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-21c25e?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-25234e?style=for-the-badge&logo=java&logoColor=fff" />
   <img src="https://img.shields.io/badge/C-1b1f23?style=for-the-badge&logo=c&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Laravel-c63b4a?style=for-the-badge&logo=laravel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-4ed14e?style=for-the-badge&logo=mongodb&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
 
@@ -80,9 +97,9 @@ Here are some ideas to get you started:
 
 ## GitHub Analytics
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelhafid37&show_icons=true&icon_color=c63b4a&title_color=40b9f7&text_color=e0e0e0&bg_color=23272e&border_radius=10&hide_title=false&hide_border=true&custom_title=Stats&theme=radical" height="165" style="font-family: 'Fira Mono', monospace;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelhafid37&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=23272e" height="165" style="font-family: 'Fira Mono', monospace;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelhafid37&show_icons=true&icon_color=c63b4a&title_color=40b9f7&text_color=e0e0e0&bg_color=23272e&border_radius=0&hide_title=false&hide_border=true&custom_title=Stats&theme=radical" height="165" style="font-family: 'Fira Mono'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelhafid37&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=23272e" height="165" style="font-family: 'Fira Mono'" />
 </p>
 
 <p align="center">
