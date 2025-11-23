@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 <!-- Clean, cycling typing effect, one line at a time -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&duration=2600&pause=900&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
 </p>
 
 <!-- Subtle animated wave divider
@@ -58,6 +59,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
   <img src="https://skillicons.dev/icons?i=react" alt="react" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="docker" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=express" alt="express" />
   <img src="https://skillicons.dev/icons?i=java" alt="java" />
@@ -68,7 +70,11 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=html" alt="html" />
   <img src="https://skillicons.dev/icons?i=css" alt="css" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=sublime" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="docker" />
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="docker" />
   <img src="https://skillicons.dev/icons?i=github" alt="github" />
   <!-- <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" /> -->
 </p>
@@ -78,6 +84,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-0f6cbf?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-03d6fc?style=for-the-badge&logo=react&logoColor=161b22" />
   <img src="https://img.shields.io/badge/Next.js-23272e?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Node.js-21c25e?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-25234e?style=for-the-badge&logo=java&logoColor=fff" />
@@ -88,7 +95,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=fff" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" />
+<img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=fff" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
 
