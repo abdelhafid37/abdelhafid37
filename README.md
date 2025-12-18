@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Clean, cycling typing effect, one line at a time -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
 </p>
 
 <!-- Subtle animated wave divider
