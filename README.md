@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 <!-- Clean, cycling typing effect, one line at a time -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=ffffff&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwindcss','Node.js','MongoDB',PHP,SQL,'Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
+</p> -->
 
 <!-- Subtle animated wave divider
 <p align="center" style="margin: -20px 0;">
@@ -31,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <!-- Modern clean badges -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-207bd7?style=flat-square&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/Contact-abdelhafidelhouari776%40email.com-22223b?style=flat-square&logo=gmail&logoColor=f23e2b" />
   <a href="https://linkedin.com/in/#">
@@ -40,8 +44,8 @@ Here are some ideas to get you started:
   <a href="https://#">
     <img src="https://img.shields.io/badge/Portfolio-google.com-22223b?style=flat-square&logo=google-chrome&logoColor=40b9f7" />
   </a>
-</p>
-
+</p> -->
+ <!--
 ---
 
 ## About Me
@@ -78,7 +82,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=git" alt="docker" />
   <img src="https://skillicons.dev/icons?i=postman" alt="docker" />
   <img src="https://skillicons.dev/icons?i=github" alt="github" />
-  <!-- <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" /> -->
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,nextjs,tailwind,mongodb,react,ts,js,html,css,express,docker,java,c,github" alt="Tech Stack Icons" /> 
 </p>
 
 <p align="center">
@@ -120,7 +124,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdelhafid37&theme=radical&margin-w=10&row=1&column=6&no-bg=true" style="font-family: 'Fira Mono', monospace;" />
   
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhafid37&layout=compact&card_width=800&hide_border=true&theme=radical" height="165" style="font-family: 'Fira Mono', monospace;" /> -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhafid37&layout=compact&card_width=800&hide_border=true&theme=radical" height="165" style="font-family: 'Fira Mono', monospace;" /> 
 </p>
 
 ---
@@ -128,7 +132,7 @@ Here are some ideas to get you started:
 ## Contribution Graph
 
 <p align="center">
-  <!--
+ 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" />
@@ -136,7 +140,7 @@ Here are some ideas to get you started:
 </picture>
    <img src="https://github.com/abdelhafid37/abdelhafid37/raw/output/github-contribution-grid-snake.svg" alt="Animated Contribution Snake" /> 
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d Contribution" />
-  -->
+ 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d Contribution" />
   
 
@@ -161,3 +165,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelhafid37&style=for-the-badge&color=40B9F7&" alt="Profile Views" />
 </p>
+ -->
