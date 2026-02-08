@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <!-- Clean, cycling typing effect, one line at a time -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=ffffff&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwindcss','Node.js','MongoDB',PHP,SQL,'Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=ffffff&background=00000000&width=1100&center=true&vCenter=true&lines=%2F%2F+Hey,+I'm+Abdelhafid;const+role+=+'Web+Developer+%26+Framework+Author';const+focus+=+'Modern+UI,+Clean+Code,+Engineering,+Architecture';const+stack+=+['JS','TS','PHP','SQL','C',...];const+frameworks+=+['Next.js','Node.js','Express','MongoDB','Laravel',...];const+goal+=+'Build+impactful+web+experiences'" alt="Typing SVG" />
 </p>
+
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
