@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Clean, cycling typing effect, one line at a time -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=ffffff&background=00000000&width=1100&center=true&vCenter=true&lines=%2F%2F+Hey,+I'm+Abdelhafid;const+role+=+'Web+Developer+%26+Framework+Author';const+focus+=+'Modern+UI,+Clean+Code,+Engineering,+Architecture';const+stack+=+['JS','TS','PHP','SQL','C',...];const+frameworks+=+['Next.js','Node.js','Express','MongoDB','Laravel',...];const+goal+=+'Build+impactful+web+experiences'" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=F21B3F&background=00000000&width=1100&center=true&vCenter=true&lines=%2F%2F+Hi,+I'm+Abdelhafid.;declar+const+role+=+'Full-Stack+Web+Developer+%26+Framework/Library+Creator';declar+const+philosophy+=+'Clean+Code,+Modern+Architecture,+Problem-Solving+%26+UI/UX';declar+const+stack+=+['JavaScript','TypeScript','C','PHP','SQL',...];declar+const+frameworks+=+['Next.js','Node.js','Express','Laravel','MongoDB',...];declar+const+creations+=+'SnapJS+(JS+Library),+AnchorPHP+(PHP+Framework)';declar+const+expertise+=+'OOP,+Kernel+Design,+Web+Architecture';declar+const+approach+=+'Hands-on+Engineering,+Modern+UI/UX,+Scalable+%26+Maintainable+Solutions';declar+const+goal+=+'Deliver+high-quality,+structured,+and+professional+code';return+self;" alt="Typing SVG" />
 </p>
 
 
