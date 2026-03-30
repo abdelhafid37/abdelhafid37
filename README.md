@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Mono&size=20&pause=1000&color=40C463&background=00000000&width=1160&center=true&vCenter=true&lines=%2F%2F+Hi,+I'm+Abdelhafid.;declare+const+role+=+'Full-Stack+Web+Developer+%26+Framework/Library+Creator';declare+const+philosophy+=+'Clean+Code,+Modern+Architecture,+Problem-Solving+%26+UI/UX';declare+const+stack+=+['JavaScript','TypeScript','C','PHP','SQL',...];declare+const+frameworks+=+['Next.js','Node.js','Express','Laravel','MongoDB',...];declare+const+creations+=+'SnapJS+(JS+Library),+AnchorPHP+(PHP+Framework)';declare+const+expertise+=+'OOP,+Kernel+Design,+Web+Architecture';declare+const+approach+=+'Hands-on+Engineering,+Modern+UI/UX,+Scalable+%26+Maintainable+Solutions';declare+const+goal+=+'Deliver+high-quality,+structured,+and+professional+code';return+self;" alt="Typing SVG" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelhafid37&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=FF073A&background=00000000&width=1100&center=true&vCenter=true&lines=//+Hey%2C+I'm+Abdelhafid;const+role+=+'Moroccan+Web+Developer';const+focus+=+'Modern+UI+%26+Clean+Code';const+stack+=+['Next.js','Tailwind','Node.js','MongoDB','Laravel',...rest];const+goal+=+'Build+impactful+web+experiences';" alt="Typing SVG" />
